@@ -1,0 +1,18 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..7eaf03a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="ja">[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <meta charset="utf-8">[m
+[32m+[m[32m        <title>Gitチュートリアル</title>[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>はじめてのバージョン管理</h1>[m
+[32m+[m[32m        <p>Gitを使ってバージョン管理する。</p>[m
+[32m+[m[32m         <img src="git-logo.png" alt="git logo">[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
